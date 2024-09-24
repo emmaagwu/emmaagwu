@@ -16,8 +16,8 @@ I'm also passionate about mentoring young individuals to achieve their goals thr
 ---
 
 ## 🚀 Projects:
-- **[myPizza](https://github.com/username/myPizza)**: A Flask-based pizza ordering system with user authentication and order management.
-- **[Portfolio Website](https://github.com/username/portfolio-website)**: A React-based portfolio showcasing my work as a software engineer.
+- **[myPizza](https://github.com/emmaagwu/myPizza)**: A Flask-based pizza ordering system with user authentication and order management.
+- **[Portfolio Website](https://emmaagwu.github.io/portfolio/)**: A React-based portfolio showcasing my work as a software engineer.
 - **[Burger API](https://github.com/username/burger-api)**: An API built with Flask to handle burger orders and delivery services.
 
 ---
