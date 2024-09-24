@@ -34,8 +34,8 @@ I'm also passionate about mentoring young individuals to achieve their goals thr
 ---
 
 ## 🤝 Connect With Me:
-- [LinkedIn](https://www.linkedin.com/in/agwuemmanuel)
-- [Twitter](https://twitter.com/username)
+- [LinkedIn](https://www.linkedin.com/in/emmaagwu)
+- [Twitter](https://twitter.com/nkumagwu)
 - [Portfolio Website](https://www.agwuemmanuel.dev)
 
 ---
