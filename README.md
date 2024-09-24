@@ -1,4 +1,4 @@
-![Banner]([https://www.canva.com/design/DAGRtJeZrb8/Jof1TYVGgHkeu3eNKQoy_w/edit?utm_content=DAGRtJeZrb8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton])
+![Banner](https://github.com/emmaagwu/emmaagwu/blob/master/banner.png)
 
 # Hi, I'm Agwu Emmanuel 👋
 
