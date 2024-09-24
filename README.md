@@ -1,4 +1,4 @@
-
+![Banner]([https://github.com/your-username/your-repo-name/blob/main/banner.png](https://github.com/emmaagwu/emmaagwu/blob/master/Black%20Modern%20Vlogger%20YouTube%20Banner.jpg))
 
 # Hi, I'm Agwu Emmanuel 👋
 
