@@ -40,5 +40,5 @@ I'm also passionate about mentoring young individuals to achieve their goals thr
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmaagwu&show_icons=true&theme=radical)
 
