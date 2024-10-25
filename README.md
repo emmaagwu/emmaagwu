@@ -10,7 +10,7 @@ I'm also passionate about mentoring young individuals to achieve their goals thr
 ## 💻 Skills:
 - **Languages:** Python, JavaScript, TypeScript
 - **Frameworks:** Flask, Node.js, React
-- **Databases:** MySQL, MongoDB
+- **Databases:** PostgreSQL, MySQL, MongoDB
 - **Tools:** Git, Docker, VS Code
 
 ---
