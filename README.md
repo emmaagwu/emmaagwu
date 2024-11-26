@@ -16,6 +16,7 @@ I'm also passionate about mentoring young individuals to achieve their goals thr
 ---
 
 ## 🚀 Projects:
+- **[MyLife](https://mylife-nu.vercel.app/)**: A NextJS-based app that offers all the tools you need for your personal development.
 - **[EasyBuy](https://emmaagwu.github.io/Ecommerce_HTML_CSS_JS/)**: A Flask-based pizza ordering system with user authentication and order management.
 - **[Portfolio Website](https://emmaagwu.github.io/portfolio/)**: A React-based portfolio showcasing my work as a software engineer.
 - **[Burger API](https://github.com/username/burger-api)**: An API built with Flask to handle burger orders and delivery services.
